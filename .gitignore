@@ -1,0 +1,11 @@
+qulla.env
+.env
+*.db
+*.csv
+*.pdf
+universe_cache.txt
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.log

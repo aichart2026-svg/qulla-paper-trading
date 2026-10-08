@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+yfinance
+python-dateutil
+matplotlib
+reportlab
